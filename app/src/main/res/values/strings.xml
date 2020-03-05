@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EcommerceSAT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adult">Adult</string>
+    <string name="child">Child</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="submit">Submit</string>
+    <string-array name="totalRooms">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
